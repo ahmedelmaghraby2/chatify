@@ -28,6 +28,10 @@
 	<true/>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
+	<key>NSCameraUsageDescription</key>
+	<string>Chatify uses the camera for video calls and photo messages.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Chatify uses the microphone for calls and voice messages.</string>
 		<key>UIApplicationSupportsMultipleScenes</key>
 		<false/>
 		<key>UISceneConfigurations</key>

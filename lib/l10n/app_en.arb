@@ -1,0 +1,929 @@
+{
+  "@@locale": "en",
+  "appName": "Chatify",
+  "@appName": {
+    "description": "The application name"
+  },
+
+  "signIn": "Sign in",
+  "@signIn": {
+    "description": "Button text for signing in"
+  },
+  "signUp": "Sign up",
+  "@signUp": {
+    "description": "Button text for creating a new account"
+  },
+  "signOut": "Sign out",
+  "@signOut": {
+    "description": "Button text for signing out"
+  },
+  "email": "Email",
+  "@email": {
+    "description": "Label for the email input field"
+  },
+  "emailHint": "Enter your email",
+  "@emailHint": {
+    "description": "Placeholder text for the email input field"
+  },
+  "password": "Password",
+  "@password": {
+    "description": "Label for the password input field"
+  },
+  "passwordHint": "Enter your password",
+  "@passwordHint": {
+    "description": "Placeholder text for the password input field"
+  },
+  "confirmPassword": "Confirm password",
+  "@confirmPassword": {
+    "description": "Label for the confirm password input field"
+  },
+  "displayName": "Display name",
+  "@displayName": {
+    "description": "Label for the display name input field"
+  },
+  "displayNameHint": "Enter your display name",
+  "@displayNameHint": {
+    "description": "Placeholder text for the display name input field"
+  },
+  "username": "Username",
+  "@username": {
+    "description": "Label for the username input field"
+  },
+  "usernameHint": "Enter your username",
+  "@usernameHint": {
+    "description": "Placeholder text for the username input field"
+  },
+  "forgotPassword": "Forgot password?",
+  "@forgotPassword": {
+    "description": "Link text for password recovery"
+  },
+  "resetPassword": "Reset password",
+  "@resetPassword": {
+    "description": "Button text to send a password reset email"
+  },
+  "resetPasswordSent": "Password reset email sent. Check your inbox.",
+  "@resetPasswordSent": {
+    "description": "Confirmation message after password reset email is sent"
+  },
+  "createAccount": "Create account",
+  "@createAccount": {
+    "description": "Button text for creating a new account"
+  },
+  "welcome": "Welcome to Chatify",
+  "@welcome": {
+    "description": "Welcome message shown on the sign-in screen"
+  },
+  "welcomeBack": "Welcome back",
+  "@welcomeBack": {
+    "description": "Greeting shown when a returning user signs in"
+  },
+  "noAccount": "Don't have an account?",
+  "@noAccount": {
+    "description": "Text prompting users to create an account"
+  },
+  "hasAccount": "Already have an account?",
+  "@hasAccount": {
+    "description": "Text prompting users to sign in"
+  },
+  "invalidEmail": "Please enter a valid email address",
+  "@invalidEmail": {
+    "description": "Error message for invalid email format"
+  },
+  "invalidPassword": "Password must be at least 8 characters",
+  "@invalidPassword": {
+    "description": "Error message for password that is too short"
+  },
+  "passwordsDoNotMatch": "Passwords do not match",
+  "@passwordsDoNotMatch": {
+    "description": "Error message when confirm password does not match"
+  },
+  "weakPassword": "Password is too weak",
+  "@weakPassword": {
+    "description": "Error message for a weak password"
+  },
+  "userNotFound": "No account found with this email",
+  "@userNotFound": {
+    "description": "Error message when user account is not found"
+  },
+  "wrongPassword": "Incorrect password",
+  "@wrongPassword": {
+    "description": "Error message for wrong password"
+  },
+  "emailAlreadyInUse": "An account already exists with this email",
+  "@emailAlreadyInUse": {
+    "description": "Error message when email is already registered"
+  },
+  "signInWithGoogle": "Sign in with Google",
+  "@signInWithGoogle": {
+    "description": "Button text for signing in with Google"
+  },
+  "orContinueWith": "Or continue with",
+  "@orContinueWith": {
+    "description": "Divider text between sign-in options"
+  },
+
+  "chats": "Chats",
+  "@chats": {
+    "description": "Title for the chats tab"
+  },
+  "contacts": "Contacts",
+  "@contacts": {
+    "description": "Title for the contacts tab"
+  },
+  "calls": "Calls",
+  "@calls": {
+    "description": "Title for the calls tab"
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "Title for the settings tab"
+  },
+  "searchChats": "Search chats",
+  "@searchChats": {
+    "description": "Placeholder text for the chat search bar"
+  },
+  "newChat": "New chat",
+  "@newChat": {
+    "description": "Button text to start a new chat"
+  },
+  "noChatsYet": "No chats yet",
+  "@noChatsYet": {
+    "description": "Empty state message when there are no chats"
+  },
+  "startAConversation": "Start a conversation",
+  "@startAConversation": {
+    "description": "Prompt to start a new conversation"
+  },
+
+  "typeMessage": "Type a message...",
+  "@typeMessage": {
+    "description": "Placeholder text for the message input field"
+  },
+  "send": "Send",
+  "@send": {
+    "description": "Button text for sending a message"
+  },
+  "noMessagesYet": "No messages yet",
+  "@noMessagesYet": {
+    "description": "Empty state message when there are no messages in a chat"
+  },
+  "sendAMessage": "Send the first message",
+  "@sendAMessage": {
+    "description": "Prompt to send the first message in a conversation"
+  },
+
+  "reply": "Reply",
+  "@reply": {
+    "description": "Context menu item to reply to a message"
+  },
+  "forward": "Forward",
+  "@forward": {
+    "description": "Context menu item to forward a message"
+  },
+  "copy": "Copy",
+  "@copy": {
+    "description": "Context menu item to copy a message"
+  },
+  "edit": "Edit",
+  "@edit": {
+    "description": "Context menu item to edit a message"
+  },
+  "deleteForMe": "Delete for me",
+  "@deleteForMe": {
+    "description": "Context menu item to delete a message only for the current user"
+  },
+  "deleteForEveryone": "Delete for everyone",
+  "@deleteForEveryone": {
+    "description": "Context menu item to delete a message for all participants"
+  },
+  "deleteMessage": "Delete message",
+  "@deleteMessage": {
+    "description": "Title of the delete message confirmation dialog"
+  },
+  "deleteMessageConfirm": "Are you sure you want to delete this message?",
+  "@deleteMessageConfirm": {
+    "description": "Confirmation text for deleting a message"
+  },
+  "messageDeleted": "Message deleted",
+  "@messageDeleted": {
+    "description": "Placeholder text shown when a message has been deleted"
+  },
+  "messageEdited": "edited",
+  "@messageEdited": {
+    "description": "Label shown next to an edited message"
+  },
+  "editMessage": "Edit message",
+  "@editMessage": {
+    "description": "Title of the edit message dialog"
+  },
+  "reactions": "Reactions",
+  "@reactions": {
+    "description": "Title for the reactions picker"
+  },
+  "addReaction": "Add reaction",
+  "@addReaction": {
+    "description": "Button text to add a reaction to a message"
+  },
+  "removeReaction": "Remove reaction",
+  "@removeReaction": {
+    "description": "Button text to remove your reaction from a message"
+  },
+
+  "forwardMessage": "Forward message",
+  "@forwardMessage": {
+    "description": "Title of the forward message dialog"
+  },
+  "forwardTo": "Forward to",
+  "@forwardTo": {
+    "description": "Label for selecting a conversation to forward a message to"
+  },
+  "messageForwarded": "Message forwarded",
+  "@messageForwarded": {
+    "description": "Confirmation text after a message is forwarded"
+  },
+
+  "createGroup": "Create group",
+  "@createGroup": {
+    "description": "Button text to create a new group"
+  },
+  "groupName": "Group name",
+  "@groupName": {
+    "description": "Label for the group name input field"
+  },
+  "groupNameHint": "Enter group name",
+  "@groupNameHint": {
+    "description": "Placeholder text for the group name input field"
+  },
+  "groupDescription": "Group description",
+  "@groupDescription": {
+    "description": "Label for the group description input field"
+  },
+  "addMembers": "Add members",
+  "@addMembers": {
+    "description": "Button text to add members to a group"
+  },
+  "removeMember": "Remove member",
+  "@removeMember": {
+    "description": "Button text to remove a member from a group"
+  },
+  "removeMemberConfirm": "Are you sure you want to remove this member?",
+  "@removeMemberConfirm": {
+    "description": "Confirmation text for removing a group member"
+  },
+  "leaveGroup": "Leave group",
+  "@leaveGroup": {
+    "description": "Button text to leave a group"
+  },
+  "leaveGroupConfirm": "Are you sure you want to leave this group?",
+  "@leaveGroupConfirm": {
+    "description": "Confirmation text for leaving a group"
+  },
+  "admin": "Admin",
+  "@admin": {
+    "description": "Label for the admin role in a group"
+  },
+  "owner": "Owner",
+  "@owner": {
+    "description": "Label for the owner role in a group"
+  },
+  "memberList": "Members",
+  "@memberList": {
+    "description": "Title for the member list screen"
+  },
+  "groupInfo": "Group info",
+  "@groupInfo": {
+    "description": "Title for the group info screen"
+  },
+  "inviteMembers": "Invite members",
+  "@inviteMembers": {
+    "description": "Button text to invite new members to a group"
+  },
+  "selectedCount": "{count} selected",
+  "@selectedCount": {
+    "description": "Text showing the number of selected items",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "membersCount": "{count} members",
+  "@membersCount": {
+    "description": "Text showing the number of members in a group",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "online": "Online",
+  "@online": {
+    "description": "Status indicator for online users"
+  },
+  "lastSeen": "Last seen {time}",
+  "@lastSeen": {
+    "description": "Text showing when a user was last seen",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+
+  "incomingCall": "Incoming call",
+  "@incomingCall": {
+    "description": "Label for an incoming call"
+  },
+  "outgoingCall": "Outgoing call",
+  "@outgoingCall": {
+    "description": "Label for an outgoing call"
+  },
+  "voiceCall": "Voice call",
+  "@voiceCall": {
+    "description": "Label for a voice call"
+  },
+  "videoCall": "Video call",
+  "@videoCall": {
+    "description": "Label for a video call"
+  },
+  "ringing": "Ringing...",
+  "@ringing": {
+    "description": "Status text while a call is ringing"
+  },
+  "callEnded": "Call ended",
+  "@callEnded": {
+    "description": "Status text after a call has ended"
+  },
+  "callDuration": "Duration: {duration}",
+  "@callDuration": {
+    "description": "Text showing the duration of a call",
+    "placeholders": {
+      "duration": {
+        "type": "String"
+      }
+    }
+  },
+  "mute": "Mute",
+  "@mute": {
+    "description": "Button text to mute the microphone during a call"
+  },
+  "unmute": "Unmute",
+  "@unmute": {
+    "description": "Button text to unmute the microphone during a call"
+  },
+  "cameraOn": "Camera on",
+  "@cameraOn": {
+    "description": "Button text to turn on the camera during a call"
+  },
+  "cameraOff": "Camera off",
+  "@cameraOff": {
+    "description": "Button text to turn off the camera during a call"
+  },
+  "speaker": "Speaker",
+  "@speaker": {
+    "description": "Button text to toggle speaker during a call"
+  },
+  "endCall": "End call",
+  "@endCall": {
+    "description": "Button text to end an active call"
+  },
+  "accept": "Accept",
+  "@accept": {
+    "description": "Button text to accept an incoming call"
+  },
+  "reject": "Reject",
+  "@reject": {
+    "description": "Button text to reject an incoming call"
+  },
+  "callRejected": "Call rejected",
+  "@callRejected": {
+    "description": "Status text when a call is rejected"
+  },
+  "callMissed": "Missed call",
+  "@callMissed": {
+    "description": "Label for a missed call"
+  },
+  "callCancelled": "Call cancelled",
+  "@callCancelled": {
+    "description": "Status text when a call is cancelled"
+  },
+  "noCalls": "No calls",
+  "@noCalls": {
+    "description": "Empty state message when there are no calls"
+  },
+  "missedCallFrom": "Missed call from {name}",
+  "@missedCallFrom": {
+    "description": "Text showing who the missed call was from",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+
+  "appearance": "Appearance",
+  "@appearance": {
+    "description": "Title for the appearance settings section"
+  },
+  "theme": "Theme",
+  "@theme": {
+    "description": "Label for the theme setting"
+  },
+  "lightTheme": "Light",
+  "@lightTheme": {
+    "description": "Option for light theme"
+  },
+  "darkTheme": "Dark",
+  "@darkTheme": {
+    "description": "Option for dark theme"
+  },
+  "systemTheme": "System",
+  "@systemTheme": {
+    "description": "Option for system default theme"
+  },
+  "language": "Language",
+  "@language": {
+    "description": "Label for the language setting"
+  },
+  "notifications": "Notifications",
+  "@notifications": {
+    "description": "Title for the notifications settings section"
+  },
+  "enableNotifications": "Enable notifications",
+  "@enableNotifications": {
+    "description": "Label for the notification toggle"
+  },
+  "messageNotifications": "Message notifications",
+  "@messageNotifications": {
+    "description": "Label for message notification settings"
+  },
+  "callNotifications": "Call notifications",
+  "@callNotifications": {
+    "description": "Label for call notification settings"
+  },
+  "privacy": "Privacy",
+  "@privacy": {
+    "description": "Title for the privacy settings section"
+  },
+  "lastSeenPrivacy": "Show last seen",
+  "@lastSeenPrivacy": {
+    "description": "Label for the last seen privacy setting"
+  },
+  "onlineStatus": "Show online status",
+  "@onlineStatus": {
+    "description": "Label for the online status privacy setting"
+  },
+  "readReceipts": "Read receipts",
+  "@readReceipts": {
+    "description": "Label for the read receipts setting"
+  },
+  "profile": "Profile",
+  "@profile": {
+    "description": "Title for the profile section"
+  },
+  "account": "Account",
+  "@account": {
+    "description": "Title for the account settings section"
+  },
+  "signOutConfirm": "Are you sure you want to sign out?",
+  "@signOutConfirm": {
+    "description": "Confirmation text for signing out"
+  },
+  "editProfile": "Edit profile",
+  "@editProfile": {
+    "description": "Button text to edit the user profile"
+  },
+  "changePhoto": "Change photo",
+  "@changePhoto": {
+    "description": "Button text to change the profile photo"
+  },
+  "bio": "Bio",
+  "@bio": {
+    "description": "Label for the bio input field"
+  },
+  "bioHint": "Tell us about yourself",
+  "@bioHint": {
+    "description": "Placeholder text for the bio input field"
+  },
+  "about": "About",
+  "@about": {
+    "description": "Label for the about section"
+  },
+
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Generic cancel button text"
+  },
+  "confirm": "Confirm",
+  "@confirm": {
+    "description": "Generic confirm button text"
+  },
+  "ok": "OK",
+  "@ok": {
+    "description": "Generic OK button text"
+  },
+  "yes": "Yes",
+  "@yes": {
+    "description": "Generic yes button text"
+  },
+  "no": "No",
+  "@no": {
+    "description": "Generic no button text"
+  },
+  "loading": "Loading...",
+  "@loading": {
+    "description": "Text shown while content is loading"
+  },
+  "error": "Error",
+  "@error": {
+    "description": "Title for error dialogs"
+  },
+  "retry": "Retry",
+  "@retry": {
+    "description": "Button text to retry a failed operation"
+  },
+  "retryLater": "Something went wrong. Please try again later.",
+  "@retryLater": {
+    "description": "Generic error message with retry prompt"
+  },
+  "noInternet": "No internet connection",
+  "@noInternet": {
+    "description": "Error message when there is no internet connection"
+  },
+  "somethingWentWrong": "Something went wrong",
+  "@somethingWentWrong": {
+    "description": "Generic error message"
+  },
+  "search": "Search",
+  "@search": {
+    "description": "Label for the search button or bar"
+  },
+  "searchInChat": "Search in this chat",
+  "@searchInChat": {
+    "description": "Search field hint in the in-chat search screen"
+  },
+  "noSearchResults": "No messages match your search",
+  "@noSearchResults": {
+    "description": "Empty state when a chat-wide search returns no messages"
+  },
+  "back": "Back",
+  "@back": {
+    "description": "Button text to go back"
+  },
+  "done": "Done",
+  "@done": {
+    "description": "Button text to finish an action"
+  },
+  "save": "Save",
+  "@save": {
+    "description": "Button text to save changes"
+  },
+  "close": "Close",
+  "@close": {
+    "description": "Button text to close a dialog or screen"
+  },
+  "delete": "Delete",
+  "@delete": {
+    "description": "Button text to delete an item"
+  },
+  "selectAll": "Select all",
+  "@selectAll": {
+    "description": "Button text to select all items"
+  },
+  "deselectAll": "Deselect all",
+  "@deselectAll": {
+    "description": "Button text to deselect all items"
+  },
+  "copied": "Copied to clipboard",
+  "@copied": {
+    "description": "Snackbar text when content is copied to clipboard"
+  },
+  "noResults": "No results found",
+  "@noResults": {
+    "description": "Text shown when a search returns no results"
+  },
+  "emptyList": "Nothing here yet",
+  "@emptyList": {
+    "description": "Empty state text for an empty list"
+  },
+
+  "justNow": "Just now",
+  "@justNow": {
+    "description": "Relative time text for less than a minute ago"
+  },
+  "minutesAgo": "{count} minutes ago",
+  "@minutesAgo": {
+    "description": "Relative time text for minutes ago",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "hoursAgo": "{count} hours ago",
+  "@hoursAgo": {
+    "description": "Relative time text for hours ago",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "daysAgo": "{count} days ago",
+  "@daysAgo": {
+    "description": "Relative time text for days ago",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "today": "Today",
+  "@today": {
+    "description": "Relative time text for today"
+  },
+  "yesterday": "Yesterday",
+  "@yesterday": {
+    "description": "Relative time text for yesterday"
+  },
+
+  "unreadMessagesCount": "{count, plural, =0{No unread messages} =1{1 unread message} other{{count} unread messages}}",
+  "@unreadMessagesCount": {
+    "description": "Pluralized text for unread messages count",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "newMessagesCount": "{count, plural, =0{No new messages} =1{1 new message} other{{count} new messages}}",
+  "@newMessagesCount": {
+    "description": "Pluralized text for new messages count",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "membersCountPlural": "{count, plural, =0{No members} =1{1 member} other{{count} members}}",
+  "@membersCountPlural": {
+    "description": "Pluralized text for members count",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+
+  "chatsTabLabel": "Chats",
+  "@chatsTabLabel": {
+    "description": "Accessibility label for the chats tab"
+  },
+  "contactsTabLabel": "Contacts",
+  "@contactsTabLabel": {
+    "description": "Accessibility label for the contacts tab"
+  },
+  "callsTabLabel": "Calls",
+  "@callsTabLabel": {
+    "description": "Accessibility label for the calls tab"
+  },
+  "settingsTabLabel": "Settings",
+  "@settingsTabLabel": {
+    "description": "Accessibility label for the settings tab"
+  },
+  "sendButtonLabel": "Send message",
+  "@sendButtonLabel": {
+    "description": "Accessibility label for the send button"
+  },
+  "attachFileLabel": "Attach file",
+  "@attachFileLabel": {
+    "description": "Accessibility label for the attach file button"
+  },
+  "recordVoiceLabel": "Record voice message",
+  "@recordVoiceLabel": {
+    "description": "Accessibility label for the voice recording button"
+  },
+  "cameraLabel": "Open camera",
+  "@cameraLabel": {
+    "description": "Accessibility label for the camera button"
+  },
+  "galleryLabel": "Open gallery",
+  "@galleryLabel": {
+    "description": "Accessibility label for the gallery button"
+  },
+  "voiceCallLabel": "Start voice call",
+  "@voiceCallLabel": {
+    "description": "Accessibility label for the voice call button"
+  },
+  "videoCallLabel": "Start video call",
+  "@videoCallLabel": {
+    "description": "Accessibility label for the video call button"
+  },
+  "searchLabel": "Search",
+  "@searchLabel": {
+    "description": "Accessibility label for search inputs"
+  },
+  "closeDialogLabel": "Close dialog",
+  "@closeDialogLabel": {
+    "description": "Accessibility label for closing a dialog"
+  },
+  "moreOptionsLabel": "More options",
+  "@moreOptionsLabel": {
+    "description": "Accessibility label for the more options menu"
+  },
+  "imageAttachmentLabel": "Image attachment",
+  "@imageAttachmentLabel": {
+    "description": "Accessibility label for an image attachment"
+  },
+  "videoAttachmentLabel": "Video attachment",
+  "@videoAttachmentLabel": {
+    "description": "Accessibility label for a video attachment"
+  },
+  "documentAttachmentLabel": "Document attachment",
+  "@documentAttachmentLabel": {
+    "description": "Accessibility label for a document attachment"
+  },
+  "voiceMessageLabel": "Voice message",
+  "@voiceMessageLabel": {
+    "description": "Accessibility label for a voice message"
+  },
+  "playVoiceMessage": "Play voice message",
+  "@playVoiceMessage": {
+    "description": "Accessibility label for playing a voice message"
+  },
+  "pauseVoiceMessage": "Pause voice message",
+  "@pauseVoiceMessage": {
+    "description": "Accessibility label for pausing a voice message"
+  },
+  "messageStatusSending": "Sending",
+  "@messageStatusSending": {
+    "description": "Accessibility label for a message that is currently sending"
+  },
+  "messageStatusSent": "Sent",
+  "@messageStatusSent": {
+    "description": "Accessibility label for a sent message"
+  },
+  "messageStatusDelivered": "Delivered",
+  "@messageStatusDelivered": {
+    "description": "Accessibility label for a delivered message"
+  },
+  "messageStatusSeen": "Seen",
+  "@messageStatusSeen": {
+    "description": "Accessibility label for a seen message"
+  },
+  "messageStatusFailed": "Failed to send",
+  "@messageStatusFailed": {
+    "description": "Accessibility label for a failed message"
+  },
+  "retrySendingMessage": "Retry sending",
+  "@retrySendingMessage": {
+    "description": "Accessibility label for retrying to send a message"
+  },
+
+  "enterName": "Enter a name",
+  "@enterName": {
+    "description": "Validation message for an empty display name"
+  },
+  "enterEmail": "Enter an email",
+  "@enterEmail": {
+    "description": "Validation message for an empty email"
+  },
+  "enterPassword": "Enter a password",
+  "@enterPassword": {
+    "description": "Validation message for an empty password"
+  },
+  "minPasswordLength": "At least 6 characters",
+  "@minPasswordLength": {
+    "description": "Validation message for a password that is too short"
+  },
+  "newGroup": "New group",
+  "@newGroup": {
+    "description": "Label for creating a new group"
+  },
+  "newMessage": "New message",
+  "@newMessage": {
+    "description": "Label for starting a new direct conversation"
+  },
+  "startDirectConversation": "Start a direct conversation",
+  "@startDirectConversation": {
+    "description": "Subtitle for the new direct conversation action"
+  },
+  "createGroupChat": "Create a group chat",
+  "@createGroupChat": {
+    "description": "Subtitle for the new group action"
+  },
+  "pin": "Pin",
+  "@pin": {
+    "description": "Context menu item to pin a conversation"
+  },
+  "unpin": "Unpin",
+  "@unpin": {
+    "description": "Context menu item to unpin a conversation"
+  },
+  "archive": "Archive",
+  "@archive": {
+    "description": "Context menu item to archive a conversation"
+  },
+  "unarchive": "Unarchive",
+  "@unarchive": {
+    "description": "Context menu item to unarchive a conversation"
+  },
+  "deleteChat": "Delete chat",
+  "@deleteChat": {
+    "description": "Context menu item to delete a conversation"
+  },
+  "callHistoryEmpty": "Your call history will appear here",
+  "@callHistoryEmpty": {
+    "description": "Empty state message for the calls list"
+  },
+  "accepted": "Accepted",
+  "@accepted": {
+    "description": "Label for an accepted call"
+  },
+  "busy": "Busy",
+  "@busy": {
+    "description": "Label for a declined call because the user was busy"
+  },
+  "connecting": "Connecting…",
+  "@connecting": {
+    "description": "Status text while a call is connecting"
+  },
+  "flipCamera": "Flip",
+  "@flipCamera": {
+    "description": "Button text to flip the camera during a video call"
+  },
+  "earpiece": "Earpiece",
+  "@earpiece": {
+    "description": "Audio output option for the phone earpiece"
+  },
+  "myProfile": "My Profile",
+  "@myProfile": {
+    "description": "Title for the profile screen of the current user"
+  },
+  "name": "Name",
+  "@name": {
+    "description": "Label for the display name field"
+  },
+  "tapToAddBio": "Tap to add a bio",
+  "@tapToAddBio": {
+    "description": "Hint shown when the user has no bio yet"
+  },
+  "blockUser": "Block user",
+  "@blockUser": {
+    "description": "Button text to block another user"
+  },
+  "editDisplayName": "Edit display name",
+  "@editDisplayName": {
+    "description": "Sheet title for editing the display name"
+  },
+  "editBio": "Edit bio",
+  "@editBio": {
+    "description": "Sheet title for editing the bio"
+  },
+  "findUsers": "Find users by name or username",
+  "@findUsers": {
+    "description": "Placeholder text for the people search bar"
+  },
+  "couldNotStartChat": "Could not start chat: {error}",
+  "@couldNotStartChat": {
+    "description": "Error message when starting a conversation fails",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "selectMemberRequired": "Please select at least one member",
+  "@selectMemberRequired": {
+    "description": "Validation message when creating a group without members"
+  },
+  "failedToCreateGroup": "Failed to create group: {error}",
+  "@failedToCreateGroup": {
+    "description": "Error message when creating a group fails",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "groupNotFound": "Group not found",
+  "@groupNotFound": {
+    "description": "Empty state message when a group could not be loaded"
+  },
+  "editGroup": "Edit group",
+  "@editGroup": {
+    "description": "Button text to edit the group name"
+  },
+  "member": "Member",
+  "@member": {
+    "description": "Label for a regular group member role"
+  },
+  "makeAdmin": "Make admin",
+  "@makeAdmin": {
+    "description": "Button text to promote a member to admin"
+  },
+  "removeAdmin": "Remove admin",
+  "@removeAdmin": {
+    "description": "Button text to demote an admin to a regular member"
+  }
+}

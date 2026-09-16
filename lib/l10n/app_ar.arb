@@ -1,0 +1,929 @@
+{
+  "@@locale": "ar",
+  "appName": "شاتيفاي",
+  "@appName": {
+    "description": "اسم التطبيق"
+  },
+
+  "signIn": "تسجيل الدخول",
+  "@signIn": {
+    "description": "نص الزر لتسجيل الدخول"
+  },
+  "signUp": "إنشاء حساب",
+  "@signUp": {
+    "description": "نص الزر لإنشاء حساب جديد"
+  },
+  "signOut": "تسجيل الخروج",
+  "@signOut": {
+    "description": "نص الزر لتسجيل الخروج"
+  },
+  "email": "البريد الإلكتروني",
+  "@email": {
+    "description": "تسمية حقل البريد الإلكتروني"
+  },
+  "emailHint": "أدخل بريدك الإلكتروني",
+  "@emailHint": {
+    "description": "نص عنصر الإدخال للبريد الإلكتروني"
+  },
+  "password": "كلمة المرور",
+  "@password": {
+    "description": "تسمية حقل كلمة المرور"
+  },
+  "passwordHint": "أدخل كلمة المرور",
+  "@passwordHint": {
+    "description": "نص عنصر الإدخال لكلمة المرور"
+  },
+  "confirmPassword": "تأكيد كلمة المرور",
+  "@confirmPassword": {
+    "description": "تسمية حقل تأكيد كلمة المرور"
+  },
+  "displayName": "اسم العرض",
+  "@displayName": {
+    "description": "تسمية حقل اسم العرض"
+  },
+  "displayNameHint": "أدخل اسم العرض الخاص بك",
+  "@displayNameHint": {
+    "description": "نص عنصر الإدخال لاسم العرض"
+  },
+  "username": "اسم المستخدم",
+  "@username": {
+    "description": "تسمية حقل اسم المستخدم"
+  },
+  "usernameHint": "أدخل اسم المستخدم الخاص بك",
+  "@usernameHint": {
+    "description": "نص عنصر الإدخال لاسم المستخدم"
+  },
+  "forgotPassword": "نسيت كلمة المرور؟",
+  "@forgotPassword": {
+    "description": "نص الرابط لاستعادة كلمة المرور"
+  },
+  "resetPassword": "إعادة تعيين كلمة المرور",
+  "@resetPassword": {
+    "description": "نص الزر لإرسال رسالة إعادة تعيين كلمة المرور"
+  },
+  "resetPasswordSent": "تم إرسال رسالة إعادة تعيين كلمة المرور. تحقق من بريدك الإلكتروني.",
+  "@resetPasswordSent": {
+    "description": "رسالة تأكيد بعد إرسال رسالة إعادة تعيين كلمة المرور"
+  },
+  "createAccount": "إنشاء حساب",
+  "@createAccount": {
+    "description": "نص الزر لإنشاء حساب جديد"
+  },
+  "welcome": "مرحباً بك في شاتيفاي",
+  "@welcome": {
+    "description": "رسالة الترحيب المعروضة على شاشة تسجيل الدخول"
+  },
+  "welcomeBack": "مرحباً بعودتك",
+  "@welcomeBack": {
+    "description": "تحية معروضة عند تسجيل دخول مستخدم عائد"
+  },
+  "noAccount": "ليس لديك حساب؟",
+  "@noAccount": {
+    "description": "نص يدعو المستخدمين لإنشاء حساب"
+  },
+  "hasAccount": "لديك حساب بالفعل؟",
+  "@hasAccount": {
+    "description": "نص يدعو المستخدمين لتسجيل الدخول"
+  },
+  "invalidEmail": "يرجى إدخال عنوان بريد إلكتروني صالح",
+  "@invalidEmail": {
+    "description": "رسالة خطأ لتنسيق البريد الإلكتروني غير الصحيح"
+  },
+  "invalidPassword": "يجب أن تكون كلمة المرور 8 أحرف على الأقل",
+  "@invalidPassword": {
+    "description": "رسالة خطأ لكلمة المرور القصيرة جداً"
+  },
+  "passwordsDoNotMatch": "كلمتا المرور غير متطابقتين",
+  "@passwordsDoNotMatch": {
+    "description": "رسالة خطأ عند عدم تطابق تأكيد كلمة المرور"
+  },
+  "weakPassword": "كلمة المرور ضعيفة جداً",
+  "@weakPassword": {
+    "description": "رسالة خطأ لكلمة المرور الضعيفة"
+  },
+  "userNotFound": "لم يتم العثور على حساب بهذا البريد الإلكتروني",
+  "@userNotFound": {
+    "description": "رسالة خطأ عند عدم العثور على حساب المستخدم"
+  },
+  "wrongPassword": "كلمة المرور غير صحيحة",
+  "@wrongPassword": {
+    "description": "رسالة خطأ لكلمة المرور الخاطئة"
+  },
+  "emailAlreadyInUse": "يوجد حساب بالفعل بهذا البريد الإلكتروني",
+  "@emailAlreadyInUse": {
+    "description": "رسالة خطأ عند تسجيل بريد إلكتروني مستخدم بالفعل"
+  },
+  "signInWithGoogle": "تسجيل الدخول باستخدام Google",
+  "@signInWithGoogle": {
+    "description": "نص الزر لتسجيل الدخول باستخدام Google"
+  },
+  "orContinueWith": "أو تابع باستخدام",
+  "@orContinueWith": {
+    "description": "نص الفاصل بين خيارات تسجيل الدخول"
+  },
+
+  "chats": "المحادثات",
+  "@chats": {
+    "description": "عنوان تبويب المحادثات"
+  },
+  "contacts": "جهات الاتصال",
+  "@contacts": {
+    "description": "عنوان تبويب جهات الاتصال"
+  },
+  "calls": "المكالمات",
+  "@calls": {
+    "description": "عنوان تبويب المكالمات"
+  },
+  "settings": "الإعدادات",
+  "@settings": {
+    "description": "عنوان تبويب الإعدادات"
+  },
+  "searchChats": "البحث في المحادثات",
+  "@searchChats": {
+    "description": "نص عنصر البحث في المحادثات"
+  },
+  "newChat": "محادثة جديدة",
+  "@newChat": {
+    "description": "نص الزر لبدء محادثة جديدة"
+  },
+  "noChatsYet": "لا توجد محادثات بعد",
+  "@noChatsYet": {
+    "description": "رسالة الحالة الفارغة عند عدم وجود محادثات"
+  },
+  "startAConversation": "ابدأ محادثة",
+  "@startAConversation": {
+    "description": "دعوة لبدء محادثة جديدة"
+  },
+
+  "typeMessage": "اكتب رسالة...",
+  "@typeMessage": {
+    "description": "نص عنصر الإدخال للكتابة في رسالة"
+  },
+  "send": "إرسال",
+  "@send": {
+    "description": "نص الزر لإرسال رسالة"
+  },
+  "noMessagesYet": "لا توجد رسائل بعد",
+  "@noMessagesYet": {
+    "description": "رسالة الحالة الفارغة عند عدم وجود رسائل في المحادثة"
+  },
+  "sendAMessage": "أرسل أول رسالة",
+  "@sendAMessage": {
+    "description": "دعوة لإرسال أول رسالة في المحادثة"
+  },
+
+  "reply": "رد",
+  "@reply": {
+    "description": "عنصر القائمة السياقية للرد على رسالة"
+  },
+  "forward": "إعادة إرسال",
+  "@forward": {
+    "description": "عنصر القائمة السياقية لإعادة إرسال رسالة"
+  },
+  "copy": "نسخ",
+  "@copy": {
+    "description": "عنصر القائمة السياقية لنسخ رسالة"
+  },
+  "edit": "تعديل",
+  "@edit": {
+    "description": "عنصر القائمة السياقية لتعديل رسالة"
+  },
+  "deleteForMe": "حذف بالنسبة لي",
+  "@deleteForMe": {
+    "description": "عنصر القائمة السياقية لحذف رسالة للمستخدم الحالي فقط"
+  },
+  "deleteForEveryone": "حذف بالنسبة للجميع",
+  "@deleteForEveryone": {
+    "description": "عنصر القائمة السياقية لحذف رسالة لجميع المشاركين"
+  },
+  "deleteMessage": "حذف الرسالة",
+  "@deleteMessage": {
+    "description": "عنوان مربع حوار تأكيد حذف الرسالة"
+  },
+  "deleteMessageConfirm": "هل أنت متأكد أنك تريد حذف هذه الرسالة؟",
+  "@deleteMessageConfirm": {
+    "description": "نص تأكيد حذف الرسالة"
+  },
+  "messageDeleted": "تم حذف الرسالة",
+  "@messageDeleted": {
+    "description": "نص بديل يظهر عند حذف رسالة"
+  },
+  "messageEdited": "تم التعديل",
+  "@messageEdited": {
+    "description": "علامة تظهر بجانب رسالة تم تعديلها"
+  },
+  "editMessage": "تعديل الرسالة",
+  "@editMessage": {
+    "description": "عنوان مربع حوار تعديل الرسالة"
+  },
+  "reactions": "ردود الفعل",
+  "@reactions": {
+    "description": "عنوان قائمة ردود الفعل"
+  },
+  "addReaction": "إضافة رد فعل",
+  "@addReaction": {
+    "description": "نص الزر لإضافة رد فعل على رسالة"
+  },
+  "removeReaction": "إزالة رد الفعل",
+  "@removeReaction": {
+    "description": "نص الزر لإزالة رد فعلك من رسالة"
+  },
+
+  "forwardMessage": "إعادة إرسال الرسالة",
+  "@forwardMessage": {
+    "description": "عنوان مربع حوار إعادة إرسال الرسالة"
+  },
+  "forwardTo": "إعادة إرسال إلى",
+  "@forwardTo": {
+    "description": "تسمية اختيار المحادثة لإعادة إرسال الرسالة إليها"
+  },
+  "messageForwarded": "تم إعادة إرسال الرسالة",
+  "@messageForwarded": {
+    "description": "نص تأكيد بعد إعادة إرسال الرسالة"
+  },
+
+  "createGroup": "إنشاء مجموعة",
+  "@createGroup": {
+    "description": "نص الزر لإنشاء مجموعة جديدة"
+  },
+  "groupName": "اسم المجموعة",
+  "@groupName": {
+    "description": "تسمية حقل اسم المجموعة"
+  },
+  "groupNameHint": "أدخل اسم المجموعة",
+  "@groupNameHint": {
+    "description": "نص عنصر الإدخال لاسم المجموعة"
+  },
+  "groupDescription": "وصف المجموعة",
+  "@groupDescription": {
+    "description": "تسمية حقل وصف المجموعة"
+  },
+  "addMembers": "إضافة أعضاء",
+  "@addMembers": {
+    "description": "نص الزر لإضافة أعضاء إلى المجموعة"
+  },
+  "removeMember": "إزالة عضو",
+  "@removeMember": {
+    "description": "نص الزر لإزالة عضو من المجموعة"
+  },
+  "removeMemberConfirm": "هل أنت متأكد أنك تريد إزالة هذا العضو؟",
+  "@removeMemberConfirm": {
+    "description": "نص تأكيد إزالة عضو من المجموعة"
+  },
+  "leaveGroup": "مغادرة المجموعة",
+  "@leaveGroup": {
+    "description": "نص الزر لمغادرة المجموعة"
+  },
+  "leaveGroupConfirm": "هل أنت متأكد أنك تريد مغادرة هذه المجموعة؟",
+  "@leaveGroupConfirm": {
+    "description": "نص تأكيد مغادرة المجموعة"
+  },
+  "admin": "مدير",
+  "@admin": {
+    "description": "تسمية دور المدير في المجموعة"
+  },
+  "owner": "المالك",
+  "@owner": {
+    "description": "تسمية دور المالك في المجموعة"
+  },
+  "memberList": "الأعضاء",
+  "@memberList": {
+    "description": "عنوان شاشة قائمة الأعضاء"
+  },
+  "groupInfo": "معلومات المجموعة",
+  "@groupInfo": {
+    "description": "عنوان شاشة معلومات المجموعة"
+  },
+  "inviteMembers": "دعوة أعضاء",
+  "@inviteMembers": {
+    "description": "نص الزر لدعوة أعضاء جدد إلى المجموعة"
+  },
+  "selectedCount": "{count} محدد",
+  "@selectedCount": {
+    "description": "نص يعرض عدد العناصر المحددة",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "membersCount": "{count} أعضاء",
+  "@membersCount": {
+    "description": "نص يعرض عدد الأعضاء في المجموعة",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "online": "متصل",
+  "@online": {
+    "description": "مؤشر الحالة للمستخدمين المتصلين"
+  },
+  "lastSeen": "آخر ظهور {time}",
+  "@lastSeen": {
+    "description": "نص يعرض متى كان آخر ظهور للمستخدم",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+
+  "incomingCall": "مكالمة واردة",
+  "@incomingCall": {
+    "description": "تسمية للمكالمة الواردة"
+  },
+  "outgoingCall": "مكالمة صادرة",
+  "@outgoingCall": {
+    "description": "تسمية للمكالمة الصادرة"
+  },
+  "voiceCall": "مكالمة صوتية",
+  "@voiceCall": {
+    "description": "تسمية للمكالمة الصوتية"
+  },
+  "videoCall": "مكالمة فيديو",
+  "@videoCall": {
+    "description": "تسمية لمكالمة الفيديو"
+  },
+  "ringing": "رنين...",
+  "@ringing": {
+    "description": "نص الحالة أثناء رنين المكالمة"
+  },
+  "callEnded": "انتهت المكالمة",
+  "@callEnded": {
+    "description": "نص الحالة بعد انتهاء المكالمة"
+  },
+  "callDuration": "المدة: {duration}",
+  "@callDuration": {
+    "description": "نص يعرض مدة المكالمة",
+    "placeholders": {
+      "duration": {
+        "type": "String"
+      }
+    }
+  },
+  "mute": "كتم الصوت",
+  "@mute": {
+    "description": "نص الزر لكتم الميكروفون أثناء المكالمة"
+  },
+  "unmute": "تشغيل الصوت",
+  "@unmute": {
+    "description": "نص الزر لتشغيل الميكروفون أثناء المكالمة"
+  },
+  "cameraOn": "تشغيل الكاميرا",
+  "@cameraOn": {
+    "description": "نص الزر لتشغيل الكاميرا أثناء المكالمة"
+  },
+  "cameraOff": "إيقاف الكاميرا",
+  "@cameraOff": {
+    "description": "نص الزر لإيقاف الكاميرا أثناء المكالمة"
+  },
+  "speaker": "السماعة",
+  "@speaker": {
+    "description": "نص الزر للتبديل بين السماعة والميكروفون أثناء المكالمة"
+  },
+  "endCall": "إنهاء المكالمة",
+  "@endCall": {
+    "description": "نص الزر لإنهاء المكالمة النشطة"
+  },
+  "accept": "قبول",
+  "@accept": {
+    "description": "نص الزر لقبول مكالمة واردة"
+  },
+  "reject": "رفض",
+  "@reject": {
+    "description": "نص الزر لرفض مكالمة واردة"
+  },
+  "callRejected": "تم رفض المكالمة",
+  "@callRejected": {
+    "description": "نص الحالة عند رفض المكالمة"
+  },
+  "callMissed": "مكالمة فائتة",
+  "@callMissed": {
+    "description": "تسمية للمكالمة الفائتة"
+  },
+  "callCancelled": "تم إلغاء المكالمة",
+  "@callCancelled": {
+    "description": "نص الحالة عند إلغاء المكالمة"
+  },
+  "noCalls": "لا توجد مكالمات",
+  "@noCalls": {
+    "description": "رسالة الحالة الفارغة عند عدم وجود مكالمات"
+  },
+  "missedCallFrom": "مكالمة فائتة من {name}",
+  "@missedCallFrom": {
+    "description": "نص يعرض من جاءت المكالمة الفائتة منه",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+
+  "appearance": "المظهر",
+  "@appearance": {
+    "description": "عنوان قسم إعدادات المظهر"
+  },
+  "theme": "السمة",
+  "@theme": {
+    "description": "تسمية إعداد السمة"
+  },
+  "lightTheme": "فاتح",
+  "@lightTheme": {
+    "description": "خيار السمة الفاتحة"
+  },
+  "darkTheme": "داكن",
+  "@darkTheme": {
+    "description": "خيار السمة الداكنة"
+  },
+  "systemTheme": "النظام",
+  "@systemTheme": {
+    "description": "خيار سمة النظام الافتراضية"
+  },
+  "language": "اللغة",
+  "@language": {
+    "description": "تسمية إعداد اللغة"
+  },
+  "notifications": "الإشعارات",
+  "@notifications": {
+    "description": "عنوان قسم إعدادات الإشعارات"
+  },
+  "enableNotifications": "تفعيل الإشعارات",
+  "@enableNotifications": {
+    "description": "تسمية مفتاح التبديل للإشعارات"
+  },
+  "messageNotifications": "إشعارات الرسائل",
+  "@messageNotifications": {
+    "description": "تسمية إعدادات إشعارات الرسائل"
+  },
+  "callNotifications": "إشعارات المكالمات",
+  "@callNotifications": {
+    "description": "تسمية إعدادات إشعارات المكالمات"
+  },
+  "privacy": "الخصوصية",
+  "@privacy": {
+    "description": "عنوان قسم إعدادات الخصوصية"
+  },
+  "lastSeenPrivacy": "إظهار آخر ظهور",
+  "@lastSeenPrivacy": {
+    "description": "تسمية إعداد خصوصية آخر ظهور"
+  },
+  "onlineStatus": "إظهار حالة الاتصال",
+  "@onlineStatus": {
+    "description": "تسمية إعداد خصوصية حالة الاتصال"
+  },
+  "readReceipts": "إشعارات القراءة",
+  "@readReceipts": {
+    "description": "تسمية إعداد إشعارات القراءة"
+  },
+  "profile": "الملف الشخصي",
+  "@profile": {
+    "description": "عنوان قسم الملف الشخصي"
+  },
+  "account": "الحساب",
+  "@account": {
+    "description": "عنوان قسم إعدادات الحساب"
+  },
+  "signOutConfirm": "هل أنت متأكد من تسجيل الخروج؟",
+  "@signOutConfirm": {
+    "description": "نص تأكيد تسجيل الخروج"
+  },
+  "editProfile": "تعديل الملف الشخصي",
+  "@editProfile": {
+    "description": "نص الزر لتعديل الملف الشخصي"
+  },
+  "changePhoto": "تغيير الصورة",
+  "@changePhoto": {
+    "description": "نص الزر لتغيير صورة الملف الشخصي"
+  },
+  "bio": "النبذة التعريفية",
+  "@bio": {
+    "description": "تسمية حقل النبذة التعريفية"
+  },
+  "bioHint": "أخبرنا عن نفسك",
+  "@bioHint": {
+    "description": "نص عنصر الإدخال للنبذة التعريفية"
+  },
+  "about": "حول",
+  "@about": {
+    "description": "تسمية قسم حول"
+  },
+
+  "cancel": "إلغاء",
+  "@cancel": {
+    "description": "نص زر الإلغاء العام"
+  },
+  "confirm": "تأكيد",
+  "@confirm": {
+    "description": "نص زر التأكيد العام"
+  },
+  "ok": "موافق",
+  "@ok": {
+    "description": "نص زر موافق العام"
+  },
+  "yes": "نعم",
+  "@yes": {
+    "description": "نص زر نعم العام"
+  },
+  "no": "لا",
+  "@no": {
+    "description": "نص زر لا العام"
+  },
+  "loading": "جاري التحميل...",
+  "@loading": {
+    "description": "نص يظهر أثناء تحميل المحتوى"
+  },
+  "error": "خطأ",
+  "@error": {
+    "description": "عنوان محاورات الخطأ"
+  },
+  "retry": "إعادة المحاولة",
+  "@retry": {
+    "description": "نص الزر لإعادة محاولة عملية فاشلة"
+  },
+  "retryLater": "حدث خطأ ما. يرجى المحاولة مرة أخرى لاحقاً.",
+  "@retryLater": {
+    "description": "رسالة خطأ عامة مع دعوة لإعادة المحاولة"
+  },
+  "noInternet": "لا يوجد اتصال بالإنترنت",
+  "@noInternet": {
+    "description": "رسالة الخطأ عند عدم وجود اتصال بالإنترنت"
+  },
+  "somethingWentWrong": "حدث خطأ ما",
+  "@somethingWentWrong": {
+    "description": "رسالة خطأ عامة"
+  },
+  "search": "بحث",
+  "@search": {
+    "description": "تسمية زر أو شريط البحث"
+  },
+  "searchInChat": "ابحث في هذه المحادثة",
+  "@searchInChat": {
+    "description": "تلميح حقل البحث في شاشة البحث داخل المحادثة"
+  },
+  "noSearchResults": "لا توجد رسائل تطابق بحثك",
+  "@noSearchResults": {
+    "description": "حالة فارغة عند عدم وجود رسائل تطابق البحث داخل المحادثة"
+  },
+  "back": "رجوع",
+  "@back": {
+    "description": "نص الزر للعودة"
+  },
+  "done": "تم",
+  "@done": {
+    "description": "نص الزر لإنهاء إجراء"
+  },
+  "save": "حفظ",
+  "@save": {
+    "description": "نص الزر لحفظ التغييرات"
+  },
+  "close": "إغلاق",
+  "@close": {
+    "description": "نص الزر لإغلاق مربع حوار أو شاشة"
+  },
+  "delete": "حذف",
+  "@delete": {
+    "description": "نص الزر لحذف عنصر"
+  },
+  "selectAll": "تحديد الكل",
+  "@selectAll": {
+    "description": "نص الزر لتحديد جميع العناصر"
+  },
+  "deselectAll": "إلغاء تحديد الكل",
+  "@deselectAll": {
+    "description": "نص الزر لإلغاء تحديد جميع العناصر"
+  },
+  "copied": "تم النسخ إلى الحافظة",
+  "@copied": {
+    "description": "نص التنبيه عند نسخ المحتوى إلى الحافظة"
+  },
+  "noResults": "لم يتم العثور على نتائج",
+  "@noResults": {
+    "description": "نص يظهر عند عدم إيجاد نتائج البحث"
+  },
+  "emptyList": "لا شيء هنا بعد",
+  "@emptyList": {
+    "description": "نص الحالة الفارغة لقائمة فارغة"
+  },
+
+  "justNow": "الآن",
+  "@justNow": {
+    "description": "نص الوقت النسبي لأقل من دقيقة مضت"
+  },
+  "minutesAgo": "منذ {count} دقيقة",
+  "@minutesAgo": {
+    "description": "نص الوقت النسبي للدقائق الماضية",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "hoursAgo": "منذ {count} ساعة",
+  "@hoursAgo": {
+    "description": "نص الوقت النسبي للساعات الماضية",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "daysAgo": "منذ {count} يوم",
+  "@daysAgo": {
+    "description": "نص الوقت النسبي للأيام الماضية",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "today": "اليوم",
+  "@today": {
+    "description": "نص الوقت النسبي لليوم"
+  },
+  "yesterday": "أمس",
+  "@yesterday": {
+    "description": "نص الوقت النسبي لأمس"
+  },
+
+  "unreadMessagesCount": "{count, plural, =0{لا توجد رسائل غير مقروءة} =1{رسالة غير مقروءة واحدة} other{{count} رسائل غير مقروءة}}",
+  "@unreadMessagesCount": {
+    "description": "نص تكديسي لعدد الرسائل غير المقروءة",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "newMessagesCount": "{count, plural, =0{لا توجد رسائل جديدة} =1{رسالة جديدة واحدة} other{{count} رسائل جديدة}}",
+  "@newMessagesCount": {
+    "description": "نص تكديسي لعدد الرسائل الجديدة",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "membersCountPlural": "{count, plural, =0{لا يوجد أعضاء} =1{عضو واحد} other{{count} أعضاء}}",
+  "@membersCountPlural": {
+    "description": "نص تكديسي لعدد الأعضاء",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+
+  "chatsTabLabel": "المحادثات",
+  "@chatsTabLabel": {
+    "description": "تسمية إمكانية الوصول لتبويب المحادثات"
+  },
+  "contactsTabLabel": "جهات الاتصال",
+  "@contactsTabLabel": {
+    "description": "تسمية إمكانية الوصول لتبويب جهات الاتصال"
+  },
+  "callsTabLabel": "المكالمات",
+  "@callsTabLabel": {
+    "description": "تسمية إمكانية الوصول لتبويب المكالمات"
+  },
+  "settingsTabLabel": "الإعدادات",
+  "@settingsTabLabel": {
+    "description": "تسمية إمكانية الوصول لتبويب الإعدادات"
+  },
+  "sendButtonLabel": "إرسال رسالة",
+  "@sendButtonLabel": {
+    "description": "تسمية إمكانية الوصول لزر الإرسال"
+  },
+  "attachFileLabel": "إرفاق ملف",
+  "@attachFileLabel": {
+    "description": "تسمية إمكانية الوصول لزر إرفاق الملف"
+  },
+  "recordVoiceLabel": "تسجيل رسالة صوتية",
+  "@recordVoiceLabel": {
+    "description": "تسمية إمكانية الوصول لزر التسجيل الصوتي"
+  },
+  "cameraLabel": "فتح الكاميرا",
+  "@cameraLabel": {
+    "description": "تسمية إمكانية الوصول لزر الكاميرا"
+  },
+  "galleryLabel": "فتح المعرض",
+  "@galleryLabel": {
+    "description": "تسمية إمكانية الوصول لزر المعرض"
+  },
+  "voiceCallLabel": "بدء مكالمة صوتية",
+  "@voiceCallLabel": {
+    "description": "تسمية إمكانية الوصول لزر المكالمة الصوتية"
+  },
+  "videoCallLabel": "بدء مكالمة فيديو",
+  "@videoCallLabel": {
+    "description": "تسمية إمكانية الوصول لزر مكالمة الفيديو"
+  },
+  "searchLabel": "بحث",
+  "@searchLabel": {
+    "description": "تسمية إمكانية الوصول لعناصر البحث"
+  },
+  "closeDialogLabel": "إغلاق مربع الحوار",
+  "@closeDialogLabel": {
+    "description": "تسمية إمكانية الوصول لإغلاق مربع الحوار"
+  },
+  "moreOptionsLabel": "خيارات إضافية",
+  "@moreOptionsLabel": {
+    "description": "تسمية إمكانية الوصول لقائمة الخيارات الإضافية"
+  },
+  "imageAttachmentLabel": "مرفق صورة",
+  "@imageAttachmentLabel": {
+    "description": "تسمية إمكانية الوصول لمرفق صورة"
+  },
+  "videoAttachmentLabel": "مرفق فيديو",
+  "@videoAttachmentLabel": {
+    "description": "تسمية إمكانية الوصول لمرفق فيديو"
+  },
+  "documentAttachmentLabel": "مرفق مستند",
+  "@documentAttachmentLabel": {
+    "description": "تسمية إمكانية الوصول لمرفق مستند"
+  },
+  "voiceMessageLabel": "رسالة صوتية",
+  "@voiceMessageLabel": {
+    "description": "تسمية إمكانية الوصول للرسالة الصوتية"
+  },
+  "playVoiceMessage": "تشغيل الرسالة الصوتية",
+  "@playVoiceMessage": {
+    "description": "تسمية إمكانية الوصول لتشغيل الرسالة الصوتية"
+  },
+  "pauseVoiceMessage": "إيقاف الرسالة الصوتية مؤقتاً",
+  "@pauseVoiceMessage": {
+    "description": "تسمية إمكانية الوصول لإيقاف الرسالة الصوتية مؤقتاً"
+  },
+  "messageStatusSending": "جاري الإرسال",
+  "@messageStatusSending": {
+    "description": "تسمية إمكانية الوصول لرسالة قيد الإرسال"
+  },
+  "messageStatusSent": "تم الإرسال",
+  "@messageStatusSent": {
+    "description": "تسمية إمكانية الوصول لرسالة مرسلة"
+  },
+  "messageStatusDelivered": "تم التسليم",
+  "@messageStatusDelivered": {
+    "description": "تسمية إمكانية الوصول لرسالة تم تسليمها"
+  },
+  "messageStatusSeen": "تمت المشاهدة",
+  "@messageStatusSeen": {
+    "description": "تسمية إمكانية الوصول لرسالة تمت مشاهدتها"
+  },
+  "messageStatusFailed": "فشل الإرسال",
+  "@messageStatusFailed": {
+    "description": "تسمية إمكانية الوصول لرسالة فشل إرسالها"
+  },
+  "retrySendingMessage": "إعادة محاولة الإرسال",
+  "@retrySendingMessage": {
+    "description": "تسمية إمكانية الوصول لإعادة محاولة إرسال رسالة"
+  },
+
+  "enterName": "أدخل اسماً",
+  "@enterName": {
+    "description": "رسالة تحقق عند إدخال اسم فارغ"
+  },
+  "enterEmail": "أدخل عنوان بريد إلكتروني",
+  "@enterEmail": {
+    "description": "رسالة تحقق عند إدخال بريد إلكتروني فارغ"
+  },
+  "enterPassword": "أدخل كلمة المرور",
+  "@enterPassword": {
+    "description": "رسالة تحقق عند إدخال كلمة مرور فارغة"
+  },
+  "minPasswordLength": "6 أحرف على الأقل",
+  "@minPasswordLength": {
+    "description": "رسالة تحقق لكلمة مرور قصيرة جداً"
+  },
+  "newGroup": "مجموعة جديدة",
+  "@newGroup": {
+    "description": "تسمية إنشاء مجموعة جديدة"
+  },
+  "newMessage": "رسالة جديدة",
+  "@newMessage": {
+    "description": "تسمية بدء محادثة مباشرة جديدة"
+  },
+  "startDirectConversation": "ابدأ محادثة مباشرة",
+  "@startDirectConversation": {
+    "description": "وصف إجراء المحادثة المباشرة الجديدة"
+  },
+  "createGroupChat": "أنشئ محادثة جماعية",
+  "@createGroupChat": {
+    "description": "وصف إجراء المجموعة الجديدة"
+  },
+  "pin": "تثبيت",
+  "@pin": {
+    "description": "عنصر قائمة لتثبيت محادثة"
+  },
+  "unpin": "إلغاء التثبيت",
+  "@unpin": {
+    "description": "عنصر قائمة لإلغاء تثبيت محادثة"
+  },
+  "archive": "أرشفة",
+  "@archive": {
+    "description": "عنصر قائمة لأرشفة محادثة"
+  },
+  "unarchive": "إلغاء الأرشفة",
+  "@unarchive": {
+    "description": "عنصر قائمة لإلغاء أرشفة محادثة"
+  },
+  "deleteChat": "حذف المحادثة",
+  "@deleteChat": {
+    "description": "عنصر قائمة لحذف محادثة"
+  },
+  "callHistoryEmpty": "سيظهر سجل المكالمات هنا",
+  "@callHistoryEmpty": {
+    "description": "رسالة الحالة الفارغة لقائمة المكالمات"
+  },
+  "accepted": "مقبولة",
+  "@accepted": {
+    "description": "تسمية مكالمة مقبولة"
+  },
+  "busy": "مشغول",
+  "@busy": {
+    "description": "تسمية مكالمة رفضت بسبب انشغال المستخدم"
+  },
+  "connecting": "جارٍ الاتصال…",
+  "@connecting": {
+    "description": "نص الحالة أثناء اتصال مكالمة"
+  },
+  "flipCamera": "قلب",
+  "@flipCamera": {
+    "description": "نص زر قلب الكاميرا أثناء مكالمة فيديو"
+  },
+  "earpiece": "سماعة الأذن",
+  "@earpiece": {
+    "description": "خيار إخراج الصوت عبر سماعة الأذن"
+  },
+  "myProfile": "ملفي الشخصي",
+  "@myProfile": {
+    "description": "عنوان شاشة الملف الشخصي للمستخدم الحالي"
+  },
+  "name": "الاسم",
+  "@name": {
+    "description": "تسمية حقل الاسم"
+  },
+  "tapToAddBio": "اضغط لإضافة نبذة تعريفية",
+  "@tapToAddBio": {
+    "description": "تلميح عند عدم وجود نبذة للمستخدم"
+  },
+  "blockUser": "حظر المستخدم",
+  "@blockUser": {
+    "description": "نص زر حظر مستخدم آخر"
+  },
+  "editDisplayName": "تعديل الاسم",
+  "@editDisplayName": {
+    "description": "عنوان نافذة تعديل الاسم"
+  },
+  "editBio": "تعديل النبذة",
+  "@editBio": {
+    "description": "عنوان نافذة تعديل النبذة"
+  },
+  "findUsers": "ابحث عن مستخدمين بالاسم أو اسم المستخدم",
+  "@findUsers": {
+    "description": "نص مكان البحث عن الأشخاص"
+  },
+  "couldNotStartChat": "تعذر بدء المحادثة: {error}",
+  "@couldNotStartChat": {
+    "description": "رسالة خطأ عند فشل بدء محادثة",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "selectMemberRequired": "يرجى تحديد عضو واحد على الأقل",
+  "@selectMemberRequired": {
+    "description": "رسالة تحقق عند إنشاء مجموعة بدون أعضاء"
+  },
+  "failedToCreateGroup": "فشل إنشاء المجموعة: {error}",
+  "@failedToCreateGroup": {
+    "description": "رسالة خطأ عند فشل إنشاء مجموعة",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "groupNotFound": "المجموعة غير موجودة",
+  "@groupNotFound": {
+    "description": "رسالة الحالة الفارغة عند تعذر تحميل مجموعة"
+  },
+  "editGroup": "تعديل المجموعة",
+  "@editGroup": {
+    "description": "نص زر تعديل اسم المجموعة"
+  },
+  "member": "عضو",
+  "@member": {
+    "description": "تسمية دور عضو المجموعة العادي"
+  },
+  "makeAdmin": "تعيين مشرفاً",
+  "@makeAdmin": {
+    "description": "نص زر ترقية عضو إلى مشرف"
+  },
+  "removeAdmin": "إزالة المشرف",
+  "@removeAdmin": {
+    "description": "نص زر خفض مشرف إلى عضو عادي"
+  }
+}

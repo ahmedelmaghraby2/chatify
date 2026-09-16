@@ -32,6 +32,8 @@ migrate_working_dir/
 .pub/
 /build/
 /coverage/
+configurations/.env
+ios/Runner/GoogleService-Info.plist
 
 # Symbolication related
 app.*.symbols

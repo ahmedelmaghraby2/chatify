@@ -1,17 +1,11 @@
-# chatify
+# Chatify
 
-A new Flutter project.
+Run on a mobile device with local configuration:
 
-## Getting Started
+`flutter run --dart-define-from-file=configurations/.env`
 
-This project is a starting point for a Flutter application.
+Apply schema changes with `supabase db push`. Deploy notification handling with `supabase functions deploy send-push`; configure the required FCM service-account secret in Supabase, never in this repository or the mobile client.
 
-A few resources to get you started if this is your first Flutter project:
+For iOS, download `GoogleService-Info.plist` from the existing Firebase project and add it to `ios/Runner` in Xcode. Android configuration is already included.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The client uses the configured STUN URL by default. Add TURN settings to the local environment before production deployment.
